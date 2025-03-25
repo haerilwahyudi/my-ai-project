@@ -1,0 +1,14 @@
+# Abaikan file dan folder sistem
+*.log
+*.exe
+*.dat
+*.spec
+*.json
+.DS_Store
+Thumbs.db
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+node_modules/
+.env
+.cache/
